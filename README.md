@@ -8,3 +8,6 @@ This repository contains three files:
 3. README.md   - This file
 
 Purpose: Demonstrating repository creation and version control using Git and GitHub.
+
+## Update Log
+- Updated index.html to include an additional paragraph and a footer section.
